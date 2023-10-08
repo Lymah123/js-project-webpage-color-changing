@@ -1,0 +1,43 @@
+<html>
+<html>
+<head>
+    <title>Sample page</title>
+    <style>
+        button {
+            background-color: transparent;
+            border: 1px solid navy;
+            padding: 20px;
+            font-size: 1.4rem;
+            border-radius: 10px;
+        }
+
+        button:hover {
+            background-color: navy;
+            border: none;
+            color: white;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <button>CLICK ME</button>
+    <div class="container"></div>
+    <script>
+        function onClickEvent() {
+            const el = document.createElement('p');
+            el.innerText = 'Clicked the button';
+            el.style.color = 'white';
+            document.querySelector('.container').appendChild(el);
+
+            const htmlBody = document.querySelector('body');
+            const colors = ["#008080", "#4169E1", "#000080", "#A52A2A", "#2F4F4F", "brown", "purple", "red"];
+            const randomIndex = Math.floor(Math.random() * colors.length);
+            const randomColor = colors[randomIndex];
+            htmlBody.style.backgroundColor = randomColor;
+            console.log('The user clicked and set the color to ' + randomColor);
+        }
+
+        document.querySelector('button').onclick = onClickEvent;
+    </script>
+</body>
+</html>
