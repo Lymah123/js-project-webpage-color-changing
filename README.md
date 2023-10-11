@@ -9,4 +9,5 @@ Codes for D1&D2 joined with some modifications, like adding a signup form and ch
 -D4.
 I built an email template with HTML.
 - D5.
-I created a landing page for startup company.
+I created a landing page for a startup company.
+
