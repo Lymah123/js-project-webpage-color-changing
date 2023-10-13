@@ -14,5 +14,5 @@ I created a landing page for a startup company.
 I designed a simple restaurant website with HTML, CSS, and JavaScript
 - D7.
 I learned the basics of Bootstrap for dynamic pages. I learned popper as well.
-
-
+- D8.
+I built a landing page of a website with Bootstrap and its dependencies.
