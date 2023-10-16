@@ -19,4 +19,4 @@ I built a landing page for a website with Bootstrap and its dependencies.
 - D9.
 I designed a contact page and an about us website.
 - D10.
-I made the hotel website more responsive. I made adjustment to the home page, added a banner section to the home page, and added a footer to the About page contact page 
+I made the hotel website more responsive. I made adjustments to the home page, added a banner section to the home page, and added a footer to the About page contact page 
