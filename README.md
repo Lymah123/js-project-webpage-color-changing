@@ -21,4 +21,4 @@ I designed a contact page and an about us website.
 - D10.
 I made the hotel website more responsive. I made adjustments to the home page, added a banner section to the home page, and added a footer to the About page contact page 
 - D11.
-I added more features to the hotel website project pages. 
+I added more features to the hotel website project pages.
