@@ -25,4 +25,7 @@ I added more features to the hotel website project pages. I had an issue centeri
 - D12.
 I completed the frontend part of the hotel website.
 - D13.
-I read the documentation on how to start the Backend part of the hotel website. I brushed my knowledge of SQL.
+I read the documentation on how to start the backend part of the hotel website. I brushed up on my knowledge of SQL.
+- D14.
+I started the backend of the forms on the hotel website.
+
