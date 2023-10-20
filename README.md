@@ -27,5 +27,5 @@ I completed the frontend part of the hotel website.
 - D13.
 I read the documentation on how to start the backend part of the hotel website. I brushed up on my knowledge of SQL.
 - D14.
-I started the backend of the forms on the hotel website.
+I started the backend of the forms on the hotel website. I set up the XAMPP for the database.
 
