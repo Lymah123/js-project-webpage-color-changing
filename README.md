@@ -29,4 +29,4 @@ I read the documentation on how to start the backend part of the hotel website. 
 - D14.
 I started the backend of the forms on the hotel website. I set up the XAMPP for the database.
 - D15.
-I worked on both the HTML and MySQL backends for the form.
+I worked on both the HTML and MySQL backends for the signup form.
