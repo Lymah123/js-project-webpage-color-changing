@@ -31,3 +31,5 @@ I started the backend of the forms on the hotel website. I set up the XAMPP for 
 - D15.
 I worked on both the HTML and MySQL backends for the signup form.
 
+- D16.
+I wrapped up the Backend of the form for the hotel website.
