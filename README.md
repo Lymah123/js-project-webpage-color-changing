@@ -35,4 +35,4 @@ I wrapped up the backend of the form for the hotel website.
 - D17.
 I read docs about CSS and JavaScript for webdev.
 - D18.
-I had a Google Meet on a form handling with one of my mentors 
+I had a Google Meet on form handling with one of my mentors for Backend.
