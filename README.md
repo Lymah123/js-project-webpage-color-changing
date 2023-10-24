@@ -34,3 +34,4 @@ I worked on both the HTML and MySQL backends for the signup form.
 I wrapped up the backend of the form for the hotel website.
 - D17.
 I read docs about CSS and JavaScript for webdev.
+
