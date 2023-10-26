@@ -36,3 +36,4 @@ I wrapped up the backend of the form for the hotel website.
 I read docs about CSS and JavaScript for webdev.
 - D18.
 I had a Google Meet on form handling with one of my mentors for Backend.
+- D19. I read a blog post on backend from beginner to advance level and how to get started effecteively.
