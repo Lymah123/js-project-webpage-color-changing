@@ -37,3 +37,4 @@ I read docs about CSS and JavaScript for webdev.
 - D18.
 I had a Google Meet on form handling with one of my mentors for the backend.
 - D19. I read a blog post on the backend, from beginner to advanced level, and how to get started effectively.
+- D20. I looked for beginner's and advanced-level repos to harness my backend development journey. I forked two repos. Starred 3 repos on backend development. I read a blog post on backend development.
