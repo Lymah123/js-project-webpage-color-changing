@@ -48,4 +48,4 @@ I learned kernel versus operating system and tools. by the Linux Foundation.
 I learned how to use Linux distributions (demo), sudo (lab), and software environments.
 - D24.
 I read a blog post on some backend frameworks.
-- D24: Nothing- I satyed late from campus(prof Adewale project SC)
+- D24: Nothing- Due to school work).
