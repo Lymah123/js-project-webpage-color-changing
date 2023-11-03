@@ -50,4 +50,4 @@ I learned how to use Linux distributions (demo), sudo (lab), and software enviro
 I read a blog post on some backend frameworks.
 - D24: Nothing (due to school work).
 - D25.
-I started learning Linux for developers. I learned graphical layers and interfaces.
+I started learning Linux for developers. I learned about graphical layers and interfaces.
