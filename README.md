@@ -52,4 +52,6 @@ I read a blog post on some backend frameworks.
 - D25.
 I started learning Linux for developers. I learned about graphical layers and interfaces.
 - D26.
-I was occupied with school work.
+I was occupied with schoolwork.
+- D27.
+I joined a backend development group on slack.
