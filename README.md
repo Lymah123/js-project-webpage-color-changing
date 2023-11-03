@@ -51,3 +51,5 @@ I read a blog post on some backend frameworks.
 - D24: Nothing (due to school work).
 - D25.
 I started learning Linux for developers. I learned about graphical layers and interfaces.
+- D26.
+I was occupied with school work.
