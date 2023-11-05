@@ -54,4 +54,5 @@ I started learning Linux for developers. I learned about graphical layers and in
 - D26.
 I was occupied with schoolwork.
 - D27.
-I joined a backend development group on slack.
+I joined a backend development group on Slack.
+
