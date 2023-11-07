@@ -23,7 +23,7 @@ I made the hotel website more responsive. I made adjustments to the home page, a
 - D11.
 I added more features to the hotel website project pages. I had an issue centering the company information on the right side of the footer. I was able to add the banner to the About page and contact page of the website.
 - D12.
-I completed the frontend part of the hotel website
+I completed the frontend part of the hotel website.
 - D13.
 I read the documentation on how to start the backend part of the hotel website. I brushed up on my knowledge of SQL.
 - D14.
