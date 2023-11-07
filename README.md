@@ -45,7 +45,7 @@ I read a blog on accessibility for developers.
 - D22.
 I learned kernel versus operating system and tools. by the Linux Foundation.
 - D23.
-I learned how to use Linux distributions (demo), sudo (lab), and software environments.
+I learned how to use Linux distributions (demo), sudo (lab), and software environments
 - D24.
 I read a blog post on some backend frameworks.
 - D24: Nothing (due to school work).
