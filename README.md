@@ -41,7 +41,7 @@ I read a blog post on the backend, from beginner to advanced level, and how to g
 - D20.
 I looked for beginner's and advanced-level repos to harness my backend development journey. I forked two repos. Starred 3 repos on backend development. I read a blog post on backend development.
 - D21.
-I read a blog on accessibility for developers.
+I read a blog on accessibility for developers
 - D22.
 I learned kernel versus operating system and tools. by the Linux Foundation.
 - D23.
