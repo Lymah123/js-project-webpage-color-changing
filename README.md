@@ -7,7 +7,7 @@ The HTML and Javascript code created a button with click me on the webpage.
 - D3.
 Codes for D1 and D2 were joined with some modifications, like adding a signup form and changing the entire page to a single color
 -D4.
-I built an email template with HTML.
+I built an email template with HTML
 - D5.
 I created a landing page for a startup company
 - D6.
