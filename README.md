@@ -57,4 +57,3 @@ I was occupied with schoolwork.
 I joined a backend development group on Slack.
 - D28.
 I learned about the main pages, GNOME and KDE. Also, learn how to use info (lab) on Linux for developers on Coursera.
-
