@@ -9,7 +9,7 @@ Codes for D1 and D2 were joined with some modifications, like adding a signup fo
 -D4.
 I built an email template with HTML.
 - D5.
-I created a landing page for a startup company
+I created a landing page for a startup company.
 - D6.
 I designed a simple restaurant website with HTML, CSS, and JavaScript.
 - D7.
