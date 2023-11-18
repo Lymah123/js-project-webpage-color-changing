@@ -57,3 +57,5 @@ I was occupied with schoolwork.
 I joined a backend development group on Slack.
 - D28.
 I learned about the main pages, GNOME and KDE. Also, learn how to use info (lab) on Linux for developers on Coursera.
+- D29.
+I joined SheCode Africa on Google Meet. The topic was about how women can make waves in tech.
