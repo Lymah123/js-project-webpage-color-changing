@@ -15,7 +15,7 @@ I designed a simple restaurant website with HTML, CSS, and JavaScript.
 - D7.
 I learned the basics of Bootstrap for dynamic pages. I learned popper as well.
 - D8.
-I built a landing page for a website with Bootstrap and its dependencies
+I built a landing page for a website with Bootstrap and its dependencies.
 - D9.
 I designed a contact page and an about us website.
 - D10.
